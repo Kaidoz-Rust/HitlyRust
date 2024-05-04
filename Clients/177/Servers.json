@@ -248,8 +248,8 @@
    "Servers":{
       "Official":[
 	 {
-			"Address": "62.122.215.239",
-			"Port": 10008,
+			"Address": "localhost",
+			"Port": 28015,
 			"Tags": ""
          },
 	 {
