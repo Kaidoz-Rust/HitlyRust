@@ -248,14 +248,14 @@
    "Servers":{
       "Official":[
 	 {
-			"Address": "localhost",
-			"Port": 28082,
+			"Address": "194.87.209.210",
+			"Port": 36601,
 			"Tags": ""
          },
 	 {
 			"Address": "194.87.209.210",
 			"Port": 20500,
-			"Tags": "vanilla, weekly"
+			"Tags": ""
          }
       ], 
       "Banned": [
