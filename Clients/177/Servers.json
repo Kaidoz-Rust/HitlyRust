@@ -3,12 +3,12 @@
    "Servers":{
       "Official":[
 	 {
-			"Address": "51.75.141.154",
+			"Address": "78.72.98.248",
 			"Port": 28015,
 			"Tags": ""
          },
 	 {
-			"Address": "51.75.141.154",
+			"Address": "78.72.98.248",
 			"Port": 28016,
 			"Tags": ""
          }
