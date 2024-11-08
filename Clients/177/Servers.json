@@ -1,15 +1,1 @@
-{
-   "ManifestVersion":3,
-   "Servers":{
-      "Official":[
-	 {
-			"Address": "46.174.52.57",
-			"Port": 10026,
-			"Tags": ""
-         }
-      ], 
-      "Banned": [
-			"62.122.213.120"
-		]
-   }
-}
+46.174.52.57
